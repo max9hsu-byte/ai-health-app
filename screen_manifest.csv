@@ -1,0 +1,22 @@
+﻿檔名,頁面名稱,平台,用途
+01_Home_Dashboard.svg,首頁總覽,Mobile,健康總覽入口
+02_Record_Categories.svg,健康紀錄分類,Mobile,五大分類入口
+03_Record_Subcategory_CommonBlood.svg,常規血液檢查子分類,Mobile,子分類導覽
+04_Record_Detail_Glucose.svg,空腹血糖詳情,Mobile,圖表與歷史紀錄
+05_Add_Method.svg,新增方式選擇,Mobile,手動 / OCR / 藍牙
+06_Add_ManualInput.svg,手動輸入,Mobile,新增資料表單
+07_OCR_Camera.svg,拍照辨識,Mobile,OCR 相機畫面
+08_OCR_Result.svg,辨識結果確認,Mobile,匯入前確認
+09_Analysis_Overview.svg,分析總覽,Mobile,AI 摘要與風險總覽
+10_Analysis_Paywall.svg,完整分析付費牆,Mobile,單次報告付費
+11_Report_Export.svg,完整報告與匯出,Mobile,匯出與資料傳輸
+12_Enterprise_Bind.svg,企業匹配,Mobile,企業綁定
+13_Enterprise_Permissions.svg,資料授權設定,Mobile,ESG 授權與同步
+14_Enterprise_Tags.svg,我的標籤,Mobile,企業分群與標籤
+15_Profile_Main.svg,我的,Mobile,個人中心
+16_Genetic_Categories.svg,基因檢測分類,Mobile,基因四大分類
+17_Genetic_List_Cancer.svg,癌症風險基因列表,Mobile,基因功能 / 位點 / 型別 / 風險
+18_Genetic_Detail_NAT2.svg,基因詳情 NAT2,Mobile,位點說明與 AI 建議
+19_Settings_Language.svg,語言設定,Mobile,多國語系切換
+20_Subscription_Management.svg,訂閱管理,Mobile,Pro 與 ESG 加值
+21_Enterprise_Web_Dashboard.svg,企業後台總覽,Web,ESG 統計與員工管理

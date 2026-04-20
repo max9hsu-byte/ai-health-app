@@ -1,0 +1,63 @@
+{
+  "color": {
+    "primary": "#1E3A8A",
+    "secondary": "#10B981",
+    "warning": "#F59E0B",
+    "danger": "#EF4444",
+    "background": "#F8FAFC",
+    "surface": "#FFFFFF",
+    "textPrimary": "#0F172A",
+    "textSecondary": "#64748B",
+    "stroke": "#E2E8F0"
+  },
+  "typography": {
+    "h1": {
+      "fontSize": 28,
+      "fontWeight": 700
+    },
+    "h2": {
+      "fontSize": 24,
+      "fontWeight": 700
+    },
+    "title": {
+      "fontSize": 20,
+      "fontWeight": 700
+    },
+    "body": {
+      "fontSize": 14,
+      "fontWeight": 400
+    },
+    "caption": {
+      "fontSize": 12,
+      "fontWeight": 400
+    },
+    "number": {
+      "fontSize": 32,
+      "fontWeight": 700
+    }
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32
+  ],
+  "radius": {
+    "sm": 12,
+    "md": 16,
+    "lg": 18,
+    "pill": 999
+  },
+  "device": {
+    "mobile": {
+      "width": 390,
+      "height": 844
+    },
+    "web": {
+      "width": 1440,
+      "height": 900
+    }
+  }
+}

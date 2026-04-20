@@ -1,0 +1,13 @@
+{
+  "package_name": "com.example.ai_health_flutter_advanced",
+  "workflows": [
+    "android-apk-debug",
+    "android-apk-release",
+    "android-aab-release"
+  ],
+  "notes": [
+    "Debug APK usually builds without signing setup.",
+    "Release APK and AAB require Android keystore configured in Codemagic.",
+    "Use GitHub as the source repository for Codemagic."
+  ]
+}

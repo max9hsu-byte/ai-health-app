@@ -1,0 +1,22 @@
+{
+  "package": "AI_Health_App_Figma_Full_Pack_v3",
+  "description": "Merged original full pack plus v2 supplemental pages.",
+  "includes_original_zip": true,
+  "includes_v2_zip": true,
+  "notes": [
+    "Retains original full pack contents.",
+    "Adds v2 supplemental pages in added_pages_v2 if filename conflicts exist.",
+    "Suitable for Figma import by dragging SVGs into Figma."
+  ],
+  "supplemental_files": [
+    "AI_Alert_Detail.svg",
+    "AI_Alert_Genetic_Link.svg",
+    "Manual_Input_Dropdowns.svg",
+    "Scrollable_Text_Components.svg",
+    "Profile_All_Subpages.svg",
+    "Export_Report_Page.svg",
+    "Full_Report_Scrollable.svg",
+    "Full_Report_Genetic_Cross.svg",
+    "update_manifest.json"
+  ]
+}
